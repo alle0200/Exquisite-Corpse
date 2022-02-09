@@ -262,7 +262,7 @@ textarea {
 }
 
 /* BONES */
-#bone1 {
+#bee1 {
   position: absolute;
   left: 5%;
   width: 10%;
@@ -272,7 +272,7 @@ textarea {
   animation:2s rotateRight infinite linear;
 }
 
-#bone2{
+#bee2{
   position: absolute;
   right: 5%;
   top: 50%;
