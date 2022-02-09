@@ -276,7 +276,6 @@ textarea {
 #bee2{
   position: absolute;
   right: 5%;
-  top: 50%;
   width: 10%;
 
   /* Rotation Code */
@@ -284,7 +283,26 @@ textarea {
   animation: 2s rotateRight infinite linear;
 }
 
-/* rotate them bones */
+#bee3{
+  position: absolute;
+  left: 5%;
+  width: 20%;
+
+  /* Rotation Code */
+  transform-origin:50% 50%;
+  animation:2s rotateRight infinite linear;
+}
+
+#bee4{
+  position: absolute;
+  right: 5%;
+  width: 20%;
+
+  /* Rotation Code */
+  transform-origin:50% 50%;
+  animation: 2s rotateRight infinite linear;
+}
+/* rotate them bees */
 @keyframes rotateRight{
     100%{ transform:rotate(360deg); }
 }
