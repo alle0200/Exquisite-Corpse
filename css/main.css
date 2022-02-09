@@ -326,3 +326,27 @@ textarea {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.image1 {
+  background-image: url("../img/graduating.jpeg")
+}
+
+.image2 {
+  background-image: url("../img/close-up.jpeg")
+}
+
+.image3 {
+  background-image: url("../img/leaningbarry.jpeg")
+}
+
+.image4 {
+  background-image: url("../img/barry-scares-me.jpeg")
+}
+
+.image5 {
+  background-image: url("../img/toomany.jpeg")
+}
+
+.image6 {
+  background-image: url("../img/jazz.jpeg")
+}
