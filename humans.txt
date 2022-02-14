@@ -3,8 +3,6 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
     Name: Abby Barnes
     Contributions: Wrote paragraphs 1 and 5, added the honeycomb background
 
@@ -20,7 +18,7 @@
 
 # THANKS
 
-    <name>
+    Thank you Barry B. Benson for existing. You are truly an inspiration to us all.
 
 # TECHNOLOGY COLOPHON
 
