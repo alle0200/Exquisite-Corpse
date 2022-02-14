@@ -3,11 +3,22 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Name: Abby Barnes
+    Contributions: Wrote paragraphs 1 and 5, added the honeycomb background
+
+    Name: Anika Hagen
+    Contributions: Wrote paragraph 4 and added the spinning bees
+
+    Name: Charlie Koepke
+    Contributions: Wrote paragraphs 3 and 7, added the parallax scrolling and images, and made the 404 page
+
+    Name: Allie Lew
+    Contributions: Wrote paragraphs 2 and 6, made the favicon, added the title
+
 
 # THANKS
 
-    <name>
+    Thank you Barry B. Benson for existing. You are truly an inspiration to us all.
 
 # TECHNOLOGY COLOPHON
 
