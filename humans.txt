@@ -13,7 +13,7 @@
     Contributions: Wrote paragraphs 3 and 7, added the parallax scrolling and images, and made the 404 page
 
     Name: Allie Lew
-    Contributions: Wrote paragraphs 2 and 6, made the favicon, added the title
+    Contributions: Wrote paragraphs 2 and 6, made the favicon, added the title, edited the humans.txt file
 
 
 # THANKS
