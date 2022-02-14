@@ -275,7 +275,7 @@ textarea {
   left: 5%;
   width: 8%;
 
-  /* Rotation Code */
+  /* Spinning Code */
   transform-origin:50% 50%;
   animation:2s rotateRight infinite linear;
 }
@@ -285,7 +285,7 @@ textarea {
   right: 5%;
   width: 8%;
 
-  /* Rotation Code */
+  /* Spinning Code */
   transform-origin:50% 50%;
   animation: 2s rotateRight infinite linear;
 }
@@ -295,7 +295,7 @@ textarea {
   left: 2%;
   width: 15%;
 
-  /* Rotation Code */
+  /* Spinning Code */
   transform-origin:50% 50%;
   animation:2s rotateRight infinite linear;
 }
@@ -305,7 +305,7 @@ textarea {
   right: 2%;
   width: 15%;
 
-  /* Rotation Code */
+  /* Spinning Code */
   transform-origin:50% 50%;
   animation: 2s rotateRight infinite linear;
 }
@@ -319,7 +319,7 @@ textarea {
   left: 5%;
   width: 10%;
 
-  /* Rotation Code */
+  /* Spinning Code */
   transform-origin:50% 50%;
   animation:2s rotateRight infinite linear;
 }
@@ -329,7 +329,7 @@ textarea {
   right: 5%;
   width: 10%;
 
-  /* Rotation Code */
+  /* Spinning Code */
   transform-origin:50% 50%;
   animation: 2s rotateRight infinite linear;
 }
