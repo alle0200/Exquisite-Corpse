@@ -316,8 +316,8 @@ textarea {
 
 #bee5{
   position: absolute;
-  left: 3%;
-  width: 15%;
+  left: 5%;
+  width: 10%;
 
   /* Rotation Code */
   transform-origin:50% 50%;
@@ -326,8 +326,8 @@ textarea {
 
 #bee6{
   position: absolute;
-  right: 3%;
-  width: 15%;
+  right: 5%;
+  width: 10%;
 
   /* Rotation Code */
   transform-origin:50% 50%;
