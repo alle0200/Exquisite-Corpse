@@ -367,6 +367,12 @@ header {
   padding: 0px 0px 30px 0px;
 }
 
+header:hover{
+  color: #7a6515;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+  transition: color 0.2s ease-in, text-shadow 0.225s ease-in;
+}
+
 #title {
   text-align: center;
   font-size: 45px;
@@ -382,4 +388,12 @@ header {
   font-weight: 700;
   margin: 0px auto;
   padding: 0px;
+}
+
+#ending {
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Luckiest Guy', cursive;
+  margin: 0px auto;
+  padding: 50px 0px 0px 0px;
 }
